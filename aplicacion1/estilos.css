@@ -1,0 +1,21 @@
+header.cabecera{
+    background-color:  rgb(39, 206, 150);
+    color: rgb(255, 255, 255);
+}
+section.aside {
+    background-color:  rgb(39, 206, 150);
+    color: rgb(255, 255, 255);
+    width: 80px;
+}
+section.articulos{
+    position: relative;
+    padding-left: 7em;
+    position: relative;
+    bottom: 163px;
+}
+footer.piedepagina{
+    background-color:  rgb(39, 206, 150);
+    color: rgb(255, 255, 255);
+    position: relative;
+    bottom: 163px;
+}
